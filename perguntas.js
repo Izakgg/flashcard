@@ -16,8 +16,6 @@ criaCartao(
     'michael jordan'
 )
 
-criaCartao(
-    'tenis de mesa',
-    'qual o melhor jogador de tenis de mesa ',
-    Fan Zhendongo''
-)
+    'tenis de mesa
+    'qual o melhor jogaodr de tenis de mesa
+    'fan zhendong'
